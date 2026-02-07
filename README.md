@@ -13,7 +13,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/madhantirri/hackarena3?style=for-the-badge&logo=github&color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/madhantirri/hackarena3?style=for-the-badge&logo=github&color=blue)
 ![GitHub issues](https://img.shields.io/github/issues/madhantirri/hackarena3?style=for-the-badge&logo=github&color=red)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/madhantirri/hackarena3/blob/main/LICENSE)
 
 <br/>
 
@@ -307,7 +307,7 @@ hackarena3/
     </td>
     <td align="center">
       <a href="https://github.com/madhantirri">
-        <img src="https://ui-avatars.com/api/?name=Madhan+Tirri&size=120&background=FF6B6B&color=fff&rounded=true&bold=true" width="120px;" style="border-radius:50%;" alt="madhantirri"/>
+        <img src="https://github.com/madhantirri.png" width="120px;" style="border-radius:50%;" alt="madhantirri"/>
       </a><br/>
       <a href="https://github.com/madhantirri" style="text-decoration:none;"><b>💻 Madhan Tirri</b></a><br/>
       <sub>Developer</sub><br/><br/>
@@ -350,35 +350,31 @@ git push origin feature/improvement
 <tr>
 <td align="center">
 
-[![⭐ Star This Repo](https://img.shields.io/badge/⭐_Star_This_Repo-yellow?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3)
+[![⭐ Star](https://img.shields.io/badge/⭐_Star-yellow?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3)
 
 </td>
 <td align="center">
 
-[![🍴 Fork This Repo](https://img.shields.io/badge/🍴_Fork_This_Repo-blue?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3/fork)
+[![🍴 Fork](https://img.shields.io/badge/🍴_Fork-blue?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3/fork)
 
 </td>
 <td align="center">
 
-[![🐛 Report Bug](https://img.shields.io/badge/🐛_Report_Bug-red?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3/issues/new)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[![💡 Request Feature](https://img.shields.io/badge/💡_Request_Feature-green?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3/issues/new?labels=enhancement)
+[![🐛 Bug](https://img.shields.io/badge/🐛_Bug-red?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3/issues/new)
 
 </td>
 <td align="center">
 
-[![📧 Contact Team](https://img.shields.io/badge/📧_Contact_Team-purple?style=for-the-badge&logo=gmail)](mailto:sanojyadav2700@gmail.com,Madhan.tirri.1323@gmail.com,goyaltanisha447@gmail.com?subject=HackArena3%20Project%20Inquiry)
+[![💡 Feature](https://img.shields.io/badge/💡_Feature-green?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3/issues/new?labels=enhancement)
+
+</td>
+<td align="center">
+
+[![📧 Contact](https://img.shields.io/badge/📧_Contact-purple?style=for-the-badge&logo=gmail)](mailto:sanojyadav2700@gmail.com,Madhan.tirri.1323@gmail.com,goyaltanisha447@gmail.com?subject=HackArena3%20Project%20Inquiry)
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 **Made with ❤️ by Team Trident**
 
