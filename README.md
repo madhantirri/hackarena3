@@ -1,15 +1,34 @@
 <div align="center">
 
-# 🗺️ Map Decluttering & Feature Extraction System
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Map%20Decluttering%20System&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Transform%20Raw%20Maps%20into%20Clean%20Vector%20Data&descAlignY=52&descSize=18"/>
 
+<!-- Badges Row 1 -->
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Leaflet](https://img.shields.io/badge/Leaflet.js-1.9+-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
 
-**A comprehensive system that transforms raw map images into clean, structured vector data.**
+<!-- Badges Row 2 -->
+![GitHub stars](https://img.shields.io/github/stars/madhantirri/hackarena3?style=for-the-badge&logo=github&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/madhantirri/hackarena3?style=for-the-badge&logo=github&color=blue)
+![GitHub issues](https://img.shields.io/github/issues/madhantirri/hackarena3?style=for-the-badge&logo=github&color=red)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+<br/>
+
+**🚀 A comprehensive Computer Vision system that transforms raw map images into clean, structured vector data.**
 
 It uses **Computer Vision** to "see" map features and a **Physics-based Displacement Engine** to automatically resolve spatial conflicts (decluttering).
+
+<br/>
+
+<!-- Quick Links -->
+[📖 Documentation](#-the-full-process-how-it-works) • 
+[🚀 Quick Start](#-installation--usage) • 
+[💡 Features](#-key-features) • 
+[👥 Team](#-contributors) • 
+[🐛 Report Bug](https://github.com/madhantirri/hackarena3/issues)
 
 ---
 
@@ -26,6 +45,26 @@ Maps contain overlapping elements - roads crossing rivers, buildings near highwa
 
 ---
 
+<!-- Table of Contents -->
+<details>
+<summary><b>📑 Table of Contents</b></summary>
+
+- [🔁 How It Works](#-the-full-process-how-it-works)
+  - [Phase 1: Image Processing](#phase-1-image-processing--feature-extraction)
+  - [Phase 2: Data Modeling](#phase-2-data-modeling)
+  - [Phase 3: Decluttering Engine](#phase-3-the-decluttering-engine)
+- [📌 Project Overview](#-project-overview)
+- [✨ Key Features](#-key-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🚀 Installation & Usage](#-installation--usage)
+- [📂 Project Structure](#-project-structure)
+- [📊 Performance Metrics](#-performance-metrics)
+- [👥 Contributors](#-contributors)
+
+</details>
+
+---
+
 ## 🔁 The Full Process: How It Works
 
 The system operates in a linear pipeline consisting of three main phases: **Extraction**, **Modeling**, and **Resolution**.
@@ -39,6 +78,22 @@ The system operates in a linear pipeline consisting of three main phases: **Extr
    Input: PNG/JPG              Input: Raw Shapes           Input: MapFeatures
    Output: Geometry            Output: MapFeature          Output: Clean Map
 ```
+
+<details>
+<summary><b>🖼️ See the Process in Action (Click to Expand)</b></summary>
+
+<br/>
+
+| Step | Description | Visual |
+|:----:|-------------|:------:|
+| **1** | Upload raw map image | 📷 → 🗺️ |
+| **2** | Extract features (roads, rivers, parks) | 🔍 Color Detection |
+| **3** | Build geometric models | 📐 Shapely Objects |
+| **4** | Detect overlapping features | ⚠️ Conflict Detection |
+| **5** | Apply physics-based displacement | 💥 Repulsion Vectors |
+| **6** | Output clean, decluttered map | ✅ Clean Result |
+
+</details>
 
 ---
 
@@ -130,13 +185,17 @@ Features are assigned priorities to determine which elements stay fixed and whic
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 | Layer | Technologies |
-|-------|-------------|
-| **Backend** | Python 3.8+, Flask, Flask-CORS |
-| **Computer Vision** | OpenCV (`cv2`), NumPy |
-| **Geometry Engine** | Shapely (polygon/line operations) |
-| **Frontend** | HTML5, CSS3, JavaScript, Leaflet.js |
-| **Data Formats** | JSON, WKT (Well-Known Text) |
+|:-----:|:-------------|
+| **🔧 Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Flask-CORS](https://img.shields.io/badge/Flask--CORS-000000?style=flat&logo=flask&logoColor=white) |
+| **👁️ Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| **📐 Geometry** | ![Shapely](https://img.shields.io/badge/Shapely-3DDC84?style=flat&logo=python&logoColor=white) |
+| **🎨 Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat&logo=leaflet&logoColor=white) |
+| **📦 Data Formats** | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) ![WKT](https://img.shields.io/badge/WKT-4A90E2?style=flat) |
+
+</div>
 
 ## 🚀 Installation & Usage
 
@@ -234,28 +293,38 @@ hackarena3/
 
 ## 👥 Contributors
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/sanojyadav17">
-        <img src="https://github.com/sanojyadav17.png" width="100px;" alt="sanojyadav17"/><br />
-        <sub><b>Sanoj Yadav</b></sub>
-      </a>
+        <img src="https://github.com/sanojyadav17.png" width="120px;" style="border-radius:50%;" alt="sanojyadav17"/><br />
+        <sub><b>🎯 Sanoj Yadav</b></sub><br/>
+        <sub>Team Lead</sub>
+      </a><br/>
+      <a href="https://github.com/sanojyadav17"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/madhantirri">
-        <img src="https://github.com/madhantirri.png" width="100px;" alt="madhantirri"/><br />
-        <sub><b>Madhan Tirri</b></sub>
-      </a>
+        <img src="https://github.com/madhantirri.png" width="120px;" style="border-radius:50%;" alt="madhantirri"/><br />
+        <sub><b>💻 Madhan Tirri</b></sub><br/>
+        <sub>Developer</sub>
+      </a><br/>
+      <a href="https://github.com/madhantirri"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/goyaltanisha447">
-        <img src="https://github.com/goyaltanisha447.png" width="100px;" alt="goyaltanisha447"/><br />
-        <sub><b>Tanisha Goyal</b></sub>
-      </a>
+        <img src="https://github.com/goyaltanisha447.png" width="120px;" style="border-radius:50%;" alt="goyaltanisha447"/><br />
+        <sub><b>🎨 Tanisha Goyal</b></sub><br/>
+        <sub>Developer</sub>
+      </a><br/>
+      <a href="https://github.com/goyaltanisha447"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -275,8 +344,26 @@ git push origin feature/improvement
 
 <div align="center">
 
-**Built for HackArena 3.0** 🏆
+## ⭐ Show Your Support
+
+If you found this project helpful, please consider giving it a star!
+
+[![GitHub Star](https://img.shields.io/badge/⭐_Star_This_Repo-yellow?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3)
+
+---
+
+### 🏆 Built for HackArena 3.0
+
+<img src="https://img.shields.io/badge/🥇_Hackathon_Project-HackArena_3.0-gold?style=for-the-badge"/>
+
+<br/>
 
 *Transforming maps with Computer Vision & Physics*
+
+<br/>
+
+**Made with ❤️ by the MapVision Team**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
