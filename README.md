@@ -299,26 +299,26 @@ hackarena3/
   <tr>
     <td align="center">
       <a href="https://github.com/sanojyadav17">
-        <img src="https://github.com/sanojyadav17.png" width="120px;" style="border-radius:50%;" alt="sanojyadav17"/><br />
-        <sub><b>🎯 Sanoj Yadav</b></sub><br/>
-        <sub>Team Lead</sub>
+        <img src="https://github.com/sanojyadav17.png" width="120px;" style="border-radius:50%;" alt="sanojyadav17"/>
       </a><br/>
+      <a href="https://github.com/sanojyadav17" style="text-decoration:none;"><b>🎯 Sanoj Yadav</b></a><br/>
+      <sub>Team Lead</sub><br/><br/>
       <a href="https://github.com/sanojyadav17"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/madhantirri">
-        <img src="https://github.com/madhantirri.png" width="120px;" style="border-radius:50%;" alt="madhantirri"/><br />
-        <sub><b>💻 Madhan Tirri</b></sub><br/>
-        <sub>Developer</sub>
+        <img src="https://ui-avatars.com/api/?name=Madhan+Tirri&size=120&background=FF6B6B&color=fff&rounded=true&bold=true" width="120px;" style="border-radius:50%;" alt="madhantirri"/>
       </a><br/>
+      <a href="https://github.com/madhantirri" style="text-decoration:none;"><b>💻 Madhan Tirri</b></a><br/>
+      <sub>Developer</sub><br/><br/>
       <a href="https://github.com/madhantirri"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/goyaltanisha447">
-        <img src="https://github.com/goyaltanisha447.png" width="120px;" style="border-radius:50%;" alt="goyaltanisha447"/><br />
-        <sub><b>🎨 Tanisha Goyal</b></sub><br/>
-        <sub>Developer</sub>
+        <img src="https://ui-avatars.com/api/?name=Tanisha+Goyal&size=120&background=6C63FF&color=fff&rounded=true&bold=true" width="120px;" style="border-radius:50%;" alt="goyaltanisha447"/>
       </a><br/>
+      <a href="https://github.com/goyaltanisha447" style="text-decoration:none;"><b>🎨 Tanisha Goyal</b></a><br/>
+      <sub>Developer</sub><br/><br/>
       <a href="https://github.com/goyaltanisha447"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
     </td>
   </tr>
@@ -344,25 +344,43 @@ git push origin feature/improvement
 
 <div align="center">
 
-## ⭐ Show Your Support
-
-If you found this project helpful, please consider giving it a star!
-
-[![GitHub Star](https://img.shields.io/badge/⭐_Star_This_Repo-yellow?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3)
-
----
-
 ### 🏆 Built for HackArena 3.0
 
-<img src="https://img.shields.io/badge/🥇_Hackathon_Project-HackArena_3.0-gold?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center">
+
+[![⭐ Star This Repo](https://img.shields.io/badge/⭐_Star_This_Repo-yellow?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3)
+
+</td>
+<td align="center">
+
+[![🍴 Fork This Repo](https://img.shields.io/badge/🍴_Fork_This_Repo-blue?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3/fork)
+
+</td>
+<td align="center">
+
+[![🐛 Report Bug](https://img.shields.io/badge/🐛_Report_Bug-red?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3/issues/new)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[![💡 Request Feature](https://img.shields.io/badge/💡_Request_Feature-green?style=for-the-badge&logo=github)](https://github.com/madhantirri/hackarena3/issues/new?labels=enhancement)
+
+</td>
+<td align="center">
+
+[![📧 Contact Team](https://img.shields.io/badge/📧_Contact_Team-purple?style=for-the-badge&logo=gmail)](mailto:sanojyadav2700@gmail.com,Madhan.tirri.1323@gmail.com,goyaltanisha447@gmail.com?subject=HackArena3%20Project%20Inquiry)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-*Transforming maps with Computer Vision & Physics*
-
-<br/>
-
-**Made with ❤️ by the MapVision Team**
+**Made with ❤️ by Team Trident**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
