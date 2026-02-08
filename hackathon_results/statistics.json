@@ -1,0 +1,13 @@
+{
+  "total_conflicts": 489,
+  "resolved_conflicts": 303,
+  "movable_features": 400,
+  "features_moved": 146,
+  "total_displacement": 688.5892629612728,
+  "iterations": 2,
+  "all_detected_conflicts": 489,
+  "success_rate": 61.963190184049076,
+  "total_features": 455,
+  "fixed_features": 55,
+  "remaining_conflicts": 186
+}

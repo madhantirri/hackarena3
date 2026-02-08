@@ -1,0 +1,2936 @@
+[
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_039",
+    "overlap_area": 1.0680633795021224,
+    "clearance_violation": 3.1827416840558627
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_040",
+    "overlap_area": 0.5851739217121973,
+    "clearance_violation": 2.912963827369012
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_042",
+    "overlap_area": 8.974537611876535,
+    "clearance_violation": 3.1827416840558627
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_043",
+    "overlap_area": 6.982450049356037,
+    "clearance_violation": 3.078489811887224
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_044",
+    "overlap_area": 1.0516484764080816,
+    "clearance_violation": 3.214299852964829
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_045",
+    "overlap_area": 2.126456971104472,
+    "clearance_violation": 3.770894891439686
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_046",
+    "overlap_area": 0.5320721320283002,
+    "clearance_violation": 2.9530313425032113
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_048",
+    "overlap_area": 2.019817878193579,
+    "clearance_violation": 3.707496266988317
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_049",
+    "overlap_area": 7.339152475631016,
+    "clearance_violation": 5.25
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_051",
+    "overlap_area": 0.20524311055435643,
+    "clearance_violation": 2.734435480085701
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "river_000",
+    "overlap_area": 915.6873145930507,
+    "clearance_violation": 5.75
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_048",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.707496266988317
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_049",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.9665241112183818
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "icon_057",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.578493602552787
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_029",
+    "overlap_area": 0.4005799224772033,
+    "clearance_violation": 2.8714545429677774
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_035",
+    "overlap_area": 10.994933050749339,
+    "clearance_violation": 2.845219375245867
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_036",
+    "overlap_area": 0.6115784618172481,
+    "clearance_violation": 2.9995470879020183
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_037",
+    "overlap_area": 7.027476268267103,
+    "clearance_violation": 5.25
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_029",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.2882598656872966
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_123",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.8187826788205066
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_130",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.9774914781534063
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_160",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.453307445772797
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_037",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.9665517586717733
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_084",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.2882598656872966
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_007",
+    "overlap_area": 1.3383725752965774,
+    "clearance_violation": 2.8478831072699724
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_010",
+    "overlap_area": 34.434726367581014,
+    "clearance_violation": 3.6210816516010733
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_011",
+    "overlap_area": 0.037703416850149385,
+    "clearance_violation": 2.575048510746841
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_012",
+    "overlap_area": 7.002396571023395,
+    "clearance_violation": 5.25
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_013",
+    "overlap_area": 1.0958794189110939,
+    "clearance_violation": 3.262066130593671
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_019",
+    "overlap_area": 1.8129847493148148,
+    "clearance_violation": 2.618074803073444
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_021",
+    "overlap_area": 1.8880438340985777,
+    "clearance_violation": 3.659131204404437
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_018",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.944060303283613
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_062",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.1328952964386385
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_076",
+    "overlap_area": 0.0,
+    "clearance_violation": 4.206878766039383
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_000",
+    "overlap_area": 0.0,
+    "clearance_violation": 4.25
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_012",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.9654851007553047
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_021",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.659131204404437
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_052",
+    "overlap_area": 0.0,
+    "clearance_violation": 4.25
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_073",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.944060303283613
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_001",
+    "overlap_area": 1.2126593165134107,
+    "clearance_violation": 3.2543595464208863
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_002",
+    "overlap_area": 0.2621139067101638,
+    "clearance_violation": 2.77598668671336
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_003",
+    "overlap_area": 2.462288105026412,
+    "clearance_violation": 3.933128687082925
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_004",
+    "overlap_area": 7.012928710951162,
+    "clearance_violation": 5.25
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_005",
+    "overlap_area": 2.3835128272991226,
+    "clearance_violation": 3.9108188027021273
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "local_road_006",
+    "overlap_area": 10.953608714455886,
+    "clearance_violation": 3.1296558033616617
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "river_001",
+    "overlap_area": 3.204831111470368,
+    "clearance_violation": 3.7543595464208863
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "river_002",
+    "overlap_area": 1.4553381996269665,
+    "clearance_violation": 3.27598668671336
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_000",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.8624633779958746
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_065",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.559248464529747
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_111",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.9157389275296195
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_163",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0043148168563945
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_169",
+    "overlap_area": 0.0,
+    "clearance_violation": 4.021181124354806
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_004",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.985001220139421
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_005",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.9108188027021273
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "label_055",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.8624633779958746
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_109",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.873763200783407
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_164",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.905831421960004
+  },
+  {
+    "feature1": "main_road_000",
+    "feature2": "building_171",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.7151300433668575
+  },
+  {
+    "feature1": "local_road_001",
+    "feature2": "river_000",
+    "overlap_area": 0.652943028951081,
+    "clearance_violation": 2.5043595464208863
+  },
+  {
+    "feature1": "local_road_001",
+    "feature2": "local_road_002",
+    "overlap_area": 3.3631706153902563,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_001",
+    "feature2": "river_001",
+    "overlap_area": 40.29457391916249,
+    "clearance_violation": 4.5
+  },
+  {
+    "feature1": "local_road_001",
+    "feature2": "river_002",
+    "overlap_area": 4.458171146625472,
+    "clearance_violation": 4.5
+  },
+  {
+    "feature1": "local_road_001",
+    "feature2": "building_165",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.562186045254802
+  },
+  {
+    "feature1": "local_road_001",
+    "feature2": "label_001",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_001",
+    "feature2": "label_002",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_001",
+    "feature2": "label_053",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_001",
+    "feature2": "label_054",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_002",
+    "feature2": "river_000",
+    "overlap_area": 0.007503001971299818,
+    "clearance_violation": 2.02598668671336
+  },
+  {
+    "feature1": "local_road_002",
+    "feature2": "local_road_003",
+    "overlap_area": 3.136548490547552,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_002",
+    "feature2": "local_road_004",
+    "overlap_area": 0.9131715631114742,
+    "clearance_violation": 2.813450638609196
+  },
+  {
+    "feature1": "local_road_002",
+    "feature2": "river_001",
+    "overlap_area": 4.458171146624367,
+    "clearance_violation": 4.5
+  },
+  {
+    "feature1": "local_road_002",
+    "feature2": "river_002",
+    "overlap_area": 16.955531076976516,
+    "clearance_violation": 4.5
+  },
+  {
+    "feature1": "local_road_002",
+    "feature2": "building_054",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.572246457236523
+  },
+  {
+    "feature1": "local_road_002",
+    "feature2": "label_002",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_002",
+    "feature2": "label_003",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_002",
+    "feature2": "label_054",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_003",
+    "feature2": "river_000",
+    "overlap_area": 1.9502619363660338,
+    "clearance_violation": 3.183128687082925
+  },
+  {
+    "feature1": "local_road_003",
+    "feature2": "local_road_004",
+    "overlap_area": 3.136548493581413,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_003",
+    "feature2": "river_002",
+    "overlap_area": 4.3255680685668025,
+    "clearance_violation": 4.5
+  },
+  {
+    "feature1": "local_road_003",
+    "feature2": "label_003",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_004",
+    "feature2": "local_road_010",
+    "overlap_area": 0.9938910034872938,
+    "clearance_violation": 2.801231948662271
+  },
+  {
+    "feature1": "local_road_004",
+    "feature2": "river_000",
+    "overlap_area": 6.061675659630673,
+    "clearance_violation": 4.5
+  },
+  {
+    "feature1": "local_road_004",
+    "feature2": "local_road_005",
+    "overlap_area": 3.136548490550163,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_004",
+    "feature2": "local_road_006",
+    "overlap_area": 1.0953569971581953,
+    "clearance_violation": 2.8087781636315885
+  },
+  {
+    "feature1": "local_road_004",
+    "feature2": "river_002",
+    "overlap_area": 1.9527058321579729,
+    "clearance_violation": 3.313450638609196
+  },
+  {
+    "feature1": "local_road_004",
+    "feature2": "label_004",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_004",
+    "feature2": "label_005",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_005",
+    "feature2": "local_road_010",
+    "overlap_area": 3.3098807317638426,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_005",
+    "feature2": "river_000",
+    "overlap_area": 1.8819208787506634,
+    "clearance_violation": 3.1608188027021273
+  },
+  {
+    "feature1": "local_road_005",
+    "feature2": "local_road_006",
+    "overlap_area": 3.4151864140561536,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_005",
+    "feature2": "label_005",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_006",
+    "feature2": "local_road_010",
+    "overlap_area": 3.136553114100539,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_006",
+    "feature2": "river_000",
+    "overlap_area": 3.8909784575613666,
+    "clearance_violation": 2.3796558033616617
+  },
+  {
+    "feature1": "local_road_006",
+    "feature2": "building_162",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.332480499306925
+  },
+  {
+    "feature1": "local_road_006",
+    "feature2": "label_006",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_007",
+    "feature2": "river_000",
+    "overlap_area": 0.1214217223856934,
+    "clearance_violation": 2.0978831072699724
+  },
+  {
+    "feature1": "local_road_007",
+    "feature2": "local_road_014",
+    "overlap_area": 3.3263619346223403,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_007",
+    "feature2": "label_007",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_008",
+    "feature2": "local_road_015",
+    "overlap_area": 3.2087111722974755,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_008",
+    "feature2": "label_008",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_009",
+    "feature2": "local_road_011",
+    "overlap_area": 3.6871032089880047,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_009",
+    "feature2": "local_road_016",
+    "overlap_area": 3.1370402848759076,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_009",
+    "feature2": "local_road_018",
+    "overlap_area": 1.851250936632591,
+    "clearance_violation": 3.0638620239837
+  },
+  {
+    "feature1": "local_road_009",
+    "feature2": "building_017",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2449059450761903
+  },
+  {
+    "feature1": "local_road_009",
+    "feature2": "label_009",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_009",
+    "feature2": "label_072",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2449059450761903
+  },
+  {
+    "feature1": "local_road_010",
+    "feature2": "river_000",
+    "overlap_area": 20.976562437901347,
+    "clearance_violation": 2.8710816516010733
+  },
+  {
+    "feature1": "local_road_010",
+    "feature2": "local_road_011",
+    "overlap_area": 3.4045221334825664,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_010",
+    "feature2": "local_road_019",
+    "overlap_area": 3.136548588133561,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_010",
+    "feature2": "label_011",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2998759856376685
+  },
+  {
+    "feature1": "local_road_010",
+    "feature2": "building_065",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.9032863600607035
+  },
+  {
+    "feature1": "local_road_010",
+    "feature2": "building_113",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.399028334881021
+  },
+  {
+    "feature1": "local_road_010",
+    "feature2": "building_163",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2408418706090574
+  },
+  {
+    "feature1": "local_road_010",
+    "feature2": "building_166",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.117479632005823
+  },
+  {
+    "feature1": "local_road_010",
+    "feature2": "label_010",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_011",
+    "feature2": "local_road_016",
+    "overlap_area": 3.1278968667990994,
+    "clearance_violation": 3.754505754747052
+  },
+  {
+    "feature1": "local_road_011",
+    "feature2": "local_road_018",
+    "overlap_area": 3.4256715142644922,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_011",
+    "feature2": "local_road_019",
+    "overlap_area": 3.3088922279523536,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_011",
+    "feature2": "building_017",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5380734122963933
+  },
+  {
+    "feature1": "local_road_011",
+    "feature2": "building_020",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.445182901944305
+  },
+  {
+    "feature1": "local_road_011",
+    "feature2": "label_009",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.754505754747052
+  },
+  {
+    "feature1": "local_road_011",
+    "feature2": "label_011",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_011",
+    "feature2": "label_072",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5380734122963933
+  },
+  {
+    "feature1": "local_road_011",
+    "feature2": "label_075",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.445182901944305
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "river_000",
+    "overlap_area": 6.00378004259401,
+    "clearance_violation": 4.5
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "local_road_022",
+    "overlap_area": 1.4508723379710387,
+    "clearance_violation": 3.0136300814679586
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "local_road_035",
+    "overlap_area": 0.8643144461578536,
+    "clearance_violation": 2.648997286953628
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "local_road_013",
+    "overlap_area": 3.13661667357056,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "local_road_014",
+    "overlap_area": 1.3722608831586327,
+    "clearance_violation": 3.011811764745156
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "local_road_019",
+    "overlap_area": 0.5733856615005103,
+    "clearance_violation": 2.5391749394273555
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "local_road_020",
+    "overlap_area": 0.50357449768277,
+    "clearance_violation": 2.5391749394273555
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "local_road_021",
+    "overlap_area": 3.136550325476112,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "building_018",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.682528579030464
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "label_000",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "label_012",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "label_013",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.011811764745156
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "label_021",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "label_052",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_012",
+    "feature2": "label_073",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.682528579030464
+  },
+  {
+    "feature1": "local_road_013",
+    "feature2": "river_000",
+    "overlap_area": 0.6323610125798392,
+    "clearance_violation": 2.512066130593671
+  },
+  {
+    "feature1": "local_road_013",
+    "feature2": "local_road_022",
+    "overlap_area": 3.3841200010817944,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_013",
+    "feature2": "local_road_014",
+    "overlap_area": 3.3055670885086634,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_013",
+    "feature2": "label_013",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_014",
+    "feature2": "local_road_022",
+    "overlap_area": 3.1365975106330475,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_014",
+    "feature2": "building_069",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.723809123550617
+  },
+  {
+    "feature1": "local_road_014",
+    "feature2": "label_013",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_014",
+    "feature2": "label_014",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_015",
+    "feature2": "label_008",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.8229099779140685
+  },
+  {
+    "feature1": "local_road_015",
+    "feature2": "label_015",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "local_road_034",
+    "overlap_area": 1.6920406706663185,
+    "clearance_violation": 3.259887246471269
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "local_road_017",
+    "overlap_area": 3.136552313664695,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "local_road_018",
+    "overlap_area": 21.884691255767148,
+    "clearance_violation": 3.355269118239094
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "local_road_020",
+    "overlap_area": 3.1598458376184397,
+    "clearance_violation": 3.782286464985945
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "building_075",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.337703988962441
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "building_129",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5186644230057476
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "building_179",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6092962293075366
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "building_186",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.049240762955019
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "label_009",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "label_016",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "label_017",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.7777361888996435
+  },
+  {
+    "feature1": "local_road_016",
+    "feature2": "label_020",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.7777361888996435
+  },
+  {
+    "feature1": "local_road_017",
+    "feature2": "local_road_034",
+    "overlap_area": 3.136674929583588,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_017",
+    "feature2": "local_road_018",
+    "overlap_area": 1.6789559111319277,
+    "clearance_violation": 3.046979671441217
+  },
+  {
+    "feature1": "local_road_017",
+    "feature2": "local_road_020",
+    "overlap_area": 3.8152887736222465,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_017",
+    "feature2": "label_017",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_017",
+    "feature2": "label_020",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "local_road_034",
+    "overlap_area": 0.8797797360553381,
+    "clearance_violation": 2.789519591665781
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "local_road_020",
+    "overlap_area": 3.2715911226043355,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "building_017",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.483151167053733
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "building_075",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.59226864643639
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "building_129",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5515422273981447
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "building_179",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.4388530478154156
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "label_009",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.0638620239837
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "label_017",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.026877751519117
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "label_018",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "label_020",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.026877751519117
+  },
+  {
+    "feature1": "local_road_018",
+    "feature2": "label_072",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.483151167053733
+  },
+  {
+    "feature1": "local_road_019",
+    "feature2": "local_road_035",
+    "overlap_area": 3.138166096989797,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_019",
+    "feature2": "local_road_020",
+    "overlap_area": 3.4116411273661287,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_019",
+    "feature2": "local_road_021",
+    "overlap_area": 3.3324229261087384,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_019",
+    "feature2": "label_011",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2969483132150095
+  },
+  {
+    "feature1": "local_road_019",
+    "feature2": "label_019",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_020",
+    "feature2": "local_road_034",
+    "overlap_area": 2.628316857707732,
+    "clearance_violation": 3.497358449644862
+  },
+  {
+    "feature1": "local_road_020",
+    "feature2": "local_road_035",
+    "overlap_area": 3.2036128479229258,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_020",
+    "feature2": "local_road_021",
+    "overlap_area": 3.1365970586381375,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_020",
+    "feature2": "label_017",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_020",
+    "feature2": "label_020",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_021",
+    "feature2": "river_000",
+    "overlap_area": 1.3882717685451267,
+    "clearance_violation": 2.909131204404437
+  },
+  {
+    "feature1": "local_road_021",
+    "feature2": "local_road_035",
+    "overlap_area": 3.6415664506883485,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_021",
+    "feature2": "label_021",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_022",
+    "feature2": "local_road_023",
+    "overlap_area": 3.1385605464663833,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_022",
+    "feature2": "building_090",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6744425162063576
+  },
+  {
+    "feature1": "local_road_022",
+    "feature2": "label_022",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_022",
+    "feature2": "label_013",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "local_road_024",
+    "overlap_area": 0.026100724179574968,
+    "clearance_violation": 2.0745477525733653
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "local_road_025",
+    "overlap_area": 0.02611807941872527,
+    "clearance_violation": 2.0745477525733653
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "local_road_026",
+    "overlap_area": 3.8734740005620103,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "local_road_027",
+    "overlap_area": 3.1525359796611876,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "local_road_028",
+    "overlap_area": 2.216508287867584,
+    "clearance_violation": 3.3058284480614524
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "local_road_030",
+    "overlap_area": 2.4682555143462075,
+    "clearance_violation": 3.4878645211292647
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "local_road_033",
+    "overlap_area": 2.584156596357386,
+    "clearance_violation": 3.3058284480614524
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "label_026",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.7903930175693725
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "label_028",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.3058284480614524
+  },
+  {
+    "feature1": "local_road_023",
+    "feature2": "label_023",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_024",
+    "feature2": "local_road_025",
+    "overlap_area": 11.76664236306067,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_024",
+    "feature2": "local_road_026",
+    "overlap_area": 0.026112945570974228,
+    "clearance_violation": 2.0745477525733653
+  },
+  {
+    "feature1": "local_road_024",
+    "feature2": "local_road_027",
+    "overlap_area": 3.142813408867074,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_024",
+    "feature2": "building_194",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.770743841711533
+  },
+  {
+    "feature1": "local_road_024",
+    "feature2": "label_024",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_024",
+    "feature2": "label_025",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2251523480803046
+  },
+  {
+    "feature1": "local_road_024",
+    "feature2": "label_027",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.4057187349783
+  },
+  {
+    "feature1": "local_road_025",
+    "feature2": "local_road_026",
+    "overlap_area": 0.026130021539429494,
+    "clearance_violation": 2.0745477525733653
+  },
+  {
+    "feature1": "local_road_025",
+    "feature2": "local_road_027",
+    "overlap_area": 3.1366707494676103,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_025",
+    "feature2": "building_194",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.0745175576583827
+  },
+  {
+    "feature1": "local_road_025",
+    "feature2": "label_024",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.224338660303372
+  },
+  {
+    "feature1": "local_road_025",
+    "feature2": "label_025",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_025",
+    "feature2": "label_027",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.4057187349783
+  },
+  {
+    "feature1": "local_road_026",
+    "feature2": "local_road_027",
+    "overlap_area": 3.1366748924227688,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_026",
+    "feature2": "local_road_028",
+    "overlap_area": 3.1366667711153977,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_026",
+    "feature2": "local_road_030",
+    "overlap_area": 2.9919964367951812,
+    "clearance_violation": 3.6947082068506045
+  },
+  {
+    "feature1": "local_road_026",
+    "feature2": "local_road_033",
+    "overlap_area": 3.579036104398023,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_026",
+    "feature2": "label_026",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_026",
+    "feature2": "label_028",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_027",
+    "feature2": "local_road_028",
+    "overlap_area": 1.4682671007412038,
+    "clearance_violation": 3.1376222671116816
+  },
+  {
+    "feature1": "local_road_027",
+    "feature2": "local_road_030",
+    "overlap_area": 2.482122900042237,
+    "clearance_violation": 3.486205899969237
+  },
+  {
+    "feature1": "local_road_027",
+    "feature2": "local_road_033",
+    "overlap_area": 1.9933093053895474,
+    "clearance_violation": 3.1959853662946047
+  },
+  {
+    "feature1": "local_road_027",
+    "feature2": "label_026",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.7135812138884106
+  },
+  {
+    "feature1": "local_road_027",
+    "feature2": "label_027",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_027",
+    "feature2": "label_028",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.1376222671116816
+  },
+  {
+    "feature1": "local_road_028",
+    "feature2": "local_road_042",
+    "overlap_area": 2.4086328319618753,
+    "clearance_violation": 3.5998179182397276
+  },
+  {
+    "feature1": "local_road_028",
+    "feature2": "local_road_043",
+    "overlap_area": 3.301010976054745,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_028",
+    "feature2": "local_road_030",
+    "overlap_area": 2.181920114578724,
+    "clearance_violation": 3.4955744194982596
+  },
+  {
+    "feature1": "local_road_028",
+    "feature2": "local_road_033",
+    "overlap_area": 3.291986914447024,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_028",
+    "feature2": "label_026",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.421234697711794
+  },
+  {
+    "feature1": "local_road_028",
+    "feature2": "label_028",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_028",
+    "feature2": "local_road_029",
+    "overlap_area": 3.1365688149176894,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_028",
+    "feature2": "local_road_037",
+    "overlap_area": 1.7225131055222382,
+    "clearance_violation": 3.2762806667767688
+  },
+  {
+    "feature1": "local_road_028",
+    "feature2": "label_029",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_029",
+    "feature2": "local_road_042",
+    "overlap_area": 3.015219657479171,
+    "clearance_violation": 3.7691155066080313
+  },
+  {
+    "feature1": "local_road_029",
+    "feature2": "local_road_043",
+    "overlap_area": 3.3841488796420025,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_029",
+    "feature2": "river_000",
+    "overlap_area": 0.07752664375838066,
+    "clearance_violation": 2.1214545429677774
+  },
+  {
+    "feature1": "local_road_029",
+    "feature2": "local_road_037",
+    "overlap_area": 3.1365719137383703,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_029",
+    "feature2": "label_029",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "local_road_047",
+    "overlap_area": 2.058354776190543,
+    "clearance_violation": 3.4248161782579674
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "local_road_031",
+    "overlap_area": 3.1390026143541863,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "local_road_032",
+    "overlap_area": 2.7238568519997886,
+    "clearance_violation": 3.6759712201978454
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "local_road_033",
+    "overlap_area": 64.11036018410346,
+    "clearance_violation": 3.7483595524485516
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "building_086",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.1679251672978017
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "label_026",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6605564115613016
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "label_028",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.4955744194982596
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "label_030",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "label_031",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6497505104479595
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "label_032",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6497505104479595
+  },
+  {
+    "feature1": "local_road_030",
+    "feature2": "label_033",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.7469906762804204
+  },
+  {
+    "feature1": "local_road_031",
+    "feature2": "local_road_047",
+    "overlap_area": 2.80808948172717,
+    "clearance_violation": 3.6715893869387397
+  },
+  {
+    "feature1": "local_road_031",
+    "feature2": "local_road_032",
+    "overlap_area": 3.6907712246762667,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_031",
+    "feature2": "local_road_033",
+    "overlap_area": 3.490180866492692,
+    "clearance_violation": 3.6902879553922845
+  },
+  {
+    "feature1": "local_road_031",
+    "feature2": "label_031",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_031",
+    "feature2": "label_032",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_032",
+    "feature2": "local_road_047",
+    "overlap_area": 3.136581297550235,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_032",
+    "feature2": "local_road_033",
+    "overlap_area": 3.48548509950274,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_032",
+    "feature2": "label_031",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_032",
+    "feature2": "label_032",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "local_road_047",
+    "overlap_area": 3.2273216320521225,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "building_037",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.028795716322715
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "building_086",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.4516765941675094
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "label_026",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.449424201920735
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "label_028",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "label_030",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.712128535423012
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "label_031",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6790203540380646
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "label_032",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6790203540380646
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "label_033",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_033",
+    "feature2": "label_092",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.028795716322715
+  },
+  {
+    "feature1": "local_road_034",
+    "feature2": "local_road_035",
+    "overlap_area": 0.8519217396781027,
+    "clearance_violation": 2.346878610941504
+  },
+  {
+    "feature1": "local_road_034",
+    "feature2": "label_034",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_034",
+    "feature2": "label_017",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.4819731883912213
+  },
+  {
+    "feature1": "local_road_034",
+    "feature2": "label_020",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.4819731883912213
+  },
+  {
+    "feature1": "local_road_035",
+    "feature2": "river_000",
+    "overlap_area": 1.6754556846023831,
+    "clearance_violation": 2.095219375245867
+  },
+  {
+    "feature1": "local_road_035",
+    "feature2": "local_road_038",
+    "overlap_area": 3.269705344055802,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_035",
+    "feature2": "local_road_036",
+    "overlap_area": 3.474477839102864,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_035",
+    "feature2": "local_road_037",
+    "overlap_area": 1.4815532716781743,
+    "clearance_violation": 2.999654313872771
+  },
+  {
+    "feature1": "local_road_035",
+    "feature2": "building_092",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.0256047431429014
+  },
+  {
+    "feature1": "local_road_035",
+    "feature2": "building_145",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.91944323268035
+  },
+  {
+    "feature1": "local_road_035",
+    "feature2": "label_035",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_036",
+    "feature2": "river_000",
+    "overlap_area": 0.22482407827193993,
+    "clearance_violation": 2.2495470879020183
+  },
+  {
+    "feature1": "local_road_036",
+    "feature2": "local_road_038",
+    "overlap_area": 3.136548491560162,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_036",
+    "feature2": "local_road_037",
+    "overlap_area": 3.136548491574518,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_036",
+    "feature2": "label_036",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_037",
+    "feature2": "local_road_042",
+    "overlap_area": 2.3490996015591152,
+    "clearance_violation": 3.5408657454498167
+  },
+  {
+    "feature1": "local_road_037",
+    "feature2": "local_road_043",
+    "overlap_area": 1.9644957573792992,
+    "clearance_violation": 3.278239328459208
+  },
+  {
+    "feature1": "local_road_037",
+    "feature2": "river_000",
+    "overlap_area": 6.023528618935299,
+    "clearance_violation": 4.5
+  },
+  {
+    "feature1": "local_road_037",
+    "feature2": "local_road_038",
+    "overlap_area": 1.1891039263015009,
+    "clearance_violation": 2.9791790747689366
+  },
+  {
+    "feature1": "local_road_037",
+    "feature2": "label_029",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2762806667767688
+  },
+  {
+    "feature1": "local_road_037",
+    "feature2": "label_036",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_037",
+    "feature2": "label_037",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_038",
+    "feature2": "local_road_050",
+    "overlap_area": 3.3524405815278078,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_038",
+    "feature2": "label_038",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_039",
+    "feature2": "local_road_040",
+    "overlap_area": 3.136986270985944,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_039",
+    "feature2": "local_road_042",
+    "overlap_area": 3.141228613882145,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_039",
+    "feature2": "local_road_043",
+    "overlap_area": 4.132911386992762,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_039",
+    "feature2": "river_000",
+    "overlap_area": 0.535730912745276,
+    "clearance_violation": 2.4327416840558627
+  },
+  {
+    "feature1": "local_road_039",
+    "feature2": "building_043",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.354429452530302
+  },
+  {
+    "feature1": "local_road_039",
+    "feature2": "label_039",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_039",
+    "feature2": "label_040",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_039",
+    "feature2": "label_098",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.354429452530302
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "local_road_041",
+    "overlap_area": 3.136555061884802,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "local_road_042",
+    "overlap_area": 1.9419422329088023,
+    "clearance_violation": 3.392320125206829
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "local_road_043",
+    "overlap_area": 7.448744337438069,
+    "clearance_violation": 3.8958831237789435
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "local_road_046",
+    "overlap_area": 2.1156272030091086,
+    "clearance_violation": 3.4466178983862945
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "local_road_047",
+    "overlap_area": 2.614778331472632,
+    "clearance_violation": 3.563725288509831
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "river_000",
+    "overlap_area": 0.12781822256893546,
+    "clearance_violation": 2.162963827369012
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "building_043",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.315775762932411
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "building_155",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.7442248505651676
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "label_039",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.785250490267685
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "label_040",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "label_041",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5636680384427852
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "label_047",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5636680384427852
+  },
+  {
+    "feature1": "local_road_040",
+    "feature2": "label_098",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.315775762932411
+  },
+  {
+    "feature1": "local_road_041",
+    "feature2": "local_road_046",
+    "overlap_area": 2.8713408486972622,
+    "clearance_violation": 3.699591305246039
+  },
+  {
+    "feature1": "local_road_041",
+    "feature2": "local_road_047",
+    "overlap_area": 3.7685964521925714,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_041",
+    "feature2": "label_041",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_041",
+    "feature2": "label_047",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "local_road_043",
+    "overlap_area": 52.93966457800251,
+    "clearance_violation": 3.8044957552660184
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "river_000",
+    "overlap_area": 3.2484981300455793,
+    "clearance_violation": 2.4327416840558627
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "building_043",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2564501289523506
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "label_039",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.607041165219217
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "label_040",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.392320125206829
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "label_098",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2564501289523506
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "building_036",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2876730941737806
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "building_085",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.8162339777318097
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "building_098",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.1219226027356126
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "building_158",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6264169490287776
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "label_042",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "label_043",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.7421770041325146
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "label_091",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2876730941737806
+  },
+  {
+    "feature1": "local_road_042",
+    "feature2": "label_029",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5998179182397276
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "local_road_044",
+    "overlap_area": 3.157109244135752,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "local_road_045",
+    "overlap_area": 2.396648890361135,
+    "clearance_violation": 3.5686405994423587
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "local_road_046",
+    "overlap_area": 3.330788907325308,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "local_road_047",
+    "overlap_area": 0.11452081247684276,
+    "clearance_violation": 2.1609720779441486
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "local_road_049",
+    "overlap_area": 1.440729713184784,
+    "clearance_violation": 3.0891153102064823
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "river_000",
+    "overlap_area": 2.5774057752151216,
+    "clearance_violation": 2.328489811887224
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "building_043",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.451955276409452
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_039",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_040",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.8958831237789435
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_044",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_045",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.4081034675216326
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_046",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.577254023183399
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_098",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.451955276409452
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "building_036",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.583239919280522
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "building_085",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5619792578771805
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "building_158",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.330666043386146
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_042",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.709252277413232
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_043",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_091",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.583239919280522
+  },
+  {
+    "feature1": "local_road_043",
+    "feature2": "label_029",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_044",
+    "feature2": "local_road_045",
+    "overlap_area": 3.1884493093764386,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_044",
+    "feature2": "local_road_046",
+    "overlap_area": 3.1962000961260464,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_044",
+    "feature2": "local_road_047",
+    "overlap_area": 0.07978610931264495,
+    "clearance_violation": 2.1558354145531107
+  },
+  {
+    "feature1": "local_road_044",
+    "feature2": "local_road_049",
+    "overlap_area": 2.050604625822219,
+    "clearance_violation": 3.440414221605474
+  },
+  {
+    "feature1": "local_road_044",
+    "feature2": "river_000",
+    "overlap_area": 0.5575417523424259,
+    "clearance_violation": 2.464299852964829
+  },
+  {
+    "feature1": "local_road_044",
+    "feature2": "label_044",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_044",
+    "feature2": "label_045",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.748865713927896
+  },
+  {
+    "feature1": "local_road_044",
+    "feature2": "label_046",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.577254023183399
+  },
+  {
+    "feature1": "local_road_045",
+    "feature2": "local_road_046",
+    "overlap_area": 2.38555303183543,
+    "clearance_violation": 3.5686405994423587
+  },
+  {
+    "feature1": "local_road_045",
+    "feature2": "local_road_049",
+    "overlap_area": 3.1365487143327484,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_045",
+    "feature2": "river_000",
+    "overlap_area": 1.6086071245127225,
+    "clearance_violation": 3.020894891439686
+  },
+  {
+    "feature1": "local_road_045",
+    "feature2": "label_044",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5686405994423587
+  },
+  {
+    "feature1": "local_road_045",
+    "feature2": "label_045",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_045",
+    "feature2": "label_046",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.269202619377683
+  },
+  {
+    "feature1": "local_road_046",
+    "feature2": "local_road_047",
+    "overlap_area": 3.136666779855335,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_046",
+    "feature2": "local_road_049",
+    "overlap_area": 1.382024420396444,
+    "clearance_violation": 3.0891153102064823
+  },
+  {
+    "feature1": "local_road_046",
+    "feature2": "river_000",
+    "overlap_area": 0.16611088049811545,
+    "clearance_violation": 2.2030313425032113
+  },
+  {
+    "feature1": "local_road_046",
+    "feature2": "label_041",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.69880300956018
+  },
+  {
+    "feature1": "local_road_046",
+    "feature2": "label_044",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_046",
+    "feature2": "label_045",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.4081034675216326
+  },
+  {
+    "feature1": "local_road_046",
+    "feature2": "label_046",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_046",
+    "feature2": "label_047",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.69880300956018
+  },
+  {
+    "feature1": "local_road_047",
+    "feature2": "label_041",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_047",
+    "feature2": "label_047",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_047",
+    "feature2": "building_140",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6287129455785103
+  },
+  {
+    "feature1": "local_road_047",
+    "feature2": "label_031",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.651890144198946
+  },
+  {
+    "feature1": "local_road_047",
+    "feature2": "label_032",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.651890144198946
+  },
+  {
+    "feature1": "local_road_048",
+    "feature2": "local_road_049",
+    "overlap_area": 3.1365484958402954,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_048",
+    "feature2": "local_road_051",
+    "overlap_area": 3.136549245456081,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_048",
+    "feature2": "river_000",
+    "overlap_area": 1.4974293622543149,
+    "clearance_violation": 2.957496266988317
+  },
+  {
+    "feature1": "local_road_048",
+    "feature2": "label_048",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_048",
+    "feature2": "label_051",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_049",
+    "feature2": "local_road_051",
+    "overlap_area": 1.1582632653831288,
+    "clearance_violation": 2.9611615016386503
+  },
+  {
+    "feature1": "local_road_049",
+    "feature2": "river_000",
+    "overlap_area": 6.334981963428978,
+    "clearance_violation": 4.5
+  },
+  {
+    "feature1": "local_road_049",
+    "feature2": "label_044",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.0891153102064823
+  },
+  {
+    "feature1": "local_road_049",
+    "feature2": "label_045",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.675686575978837
+  },
+  {
+    "feature1": "local_road_049",
+    "feature2": "label_048",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_049",
+    "feature2": "label_049",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_050",
+    "feature2": "local_road_051",
+    "overlap_area": 3.389672074483817,
+    "clearance_violation": 4.0
+  },
+  {
+    "feature1": "local_road_050",
+    "feature2": "building_051",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.1696702936247583
+  },
+  {
+    "feature1": "local_road_050",
+    "feature2": "building_094",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.6567920226608495
+  },
+  {
+    "feature1": "local_road_050",
+    "feature2": "building_154",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.8240675701050417
+  },
+  {
+    "feature1": "local_road_050",
+    "feature2": "building_148",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.126793000690516
+  },
+  {
+    "feature1": "local_road_050",
+    "feature2": "label_050",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "local_road_051",
+    "feature2": "label_051",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_049",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.2165241112183818
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "icon_057",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.828493602552787
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_029",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5382598656872966
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_123",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.0687826788205066
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_130",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.2274914781534063
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_160",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.703307445772797
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_037",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.2165517586717733
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_084",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.5382598656872966
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_018",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.194060303283613
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_062",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.3828952964386385
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_076",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.456878766039383
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_000",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.5
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_012",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.2154851007553047
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_052",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.5
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_073",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.194060303283613
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "river_001",
+    "overlap_area": 2.2694298806074267,
+    "clearance_violation": 3.0043595464208863
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "river_002",
+    "overlap_area": 0.8359026767042073,
+    "clearance_violation": 2.52598668671336
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_000",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.1124633779958746
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_111",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.1657389275296195
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_163",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.2543148168563945
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_169",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.271181124354806
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_004",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.235001220139421
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_005",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.1608188027021273
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "label_055",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.1124633779958746
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_109",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.123763200783407
+  },
+  {
+    "feature1": "river_000",
+    "feature2": "building_164",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.155831421960004
+  },
+  {
+    "feature1": "river_001",
+    "feature2": "river_002",
+    "overlap_area": 7.5671338846288085,
+    "clearance_violation": 5.0
+  },
+  {
+    "feature1": "river_001",
+    "feature2": "building_055",
+    "overlap_area": 0.0,
+    "clearance_violation": 2.3431582955127808
+  },
+  {
+    "feature1": "river_001",
+    "feature2": "building_165",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.062186045254802
+  },
+  {
+    "feature1": "river_001",
+    "feature2": "label_001",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.5
+  },
+  {
+    "feature1": "river_001",
+    "feature2": "label_002",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.5
+  },
+  {
+    "feature1": "river_001",
+    "feature2": "label_053",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.5
+  },
+  {
+    "feature1": "river_001",
+    "feature2": "label_054",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.5
+  },
+  {
+    "feature1": "river_002",
+    "feature2": "building_054",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.072246457236523
+  },
+  {
+    "feature1": "river_002",
+    "feature2": "label_002",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.5
+  },
+  {
+    "feature1": "river_002",
+    "feature2": "label_003",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.5
+  },
+  {
+    "feature1": "river_002",
+    "feature2": "label_054",
+    "overlap_area": 0.0,
+    "clearance_violation": 3.5
+  },
+  {
+    "feature1": "building_000",
+    "feature2": "label_055",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_001",
+    "feature2": "label_056",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_002",
+    "feature2": "label_057",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_003",
+    "feature2": "label_058",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_004",
+    "feature2": "label_059",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_005",
+    "feature2": "label_060",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_006",
+    "feature2": "label_061",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_007",
+    "feature2": "label_062",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_008",
+    "feature2": "label_063",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_009",
+    "feature2": "label_064",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_010",
+    "feature2": "label_065",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_011",
+    "feature2": "label_066",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_012",
+    "feature2": "label_067",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_013",
+    "feature2": "label_068",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_014",
+    "feature2": "label_069",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_015",
+    "feature2": "label_070",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_016",
+    "feature2": "label_071",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_017",
+    "feature2": "label_072",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_018",
+    "feature2": "label_073",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_019",
+    "feature2": "label_074",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_020",
+    "feature2": "label_075",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_021",
+    "feature2": "label_076",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_022",
+    "feature2": "label_077",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_023",
+    "feature2": "label_078",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_024",
+    "feature2": "label_079",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_025",
+    "feature2": "label_080",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_026",
+    "feature2": "label_081",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_027",
+    "feature2": "label_082",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_028",
+    "feature2": "label_083",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_029",
+    "feature2": "label_084",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_030",
+    "feature2": "label_085",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_031",
+    "feature2": "label_086",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_032",
+    "feature2": "label_087",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_033",
+    "feature2": "label_088",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_034",
+    "feature2": "label_089",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_035",
+    "feature2": "label_090",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_036",
+    "feature2": "label_091",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_037",
+    "feature2": "label_092",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_038",
+    "feature2": "label_093",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_039",
+    "feature2": "label_094",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_040",
+    "feature2": "label_095",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_041",
+    "feature2": "label_096",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_042",
+    "feature2": "label_097",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_043",
+    "feature2": "label_098",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "building_044",
+    "feature2": "label_099",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "label_000",
+    "feature2": "label_052",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "label_001",
+    "feature2": "label_053",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "label_002",
+    "feature2": "label_054",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "label_017",
+    "feature2": "label_020",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "label_031",
+    "feature2": "label_032",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  },
+  {
+    "feature1": "label_041",
+    "feature2": "label_047",
+    "overlap_area": 0.0,
+    "clearance_violation": 1.0
+  }
+]

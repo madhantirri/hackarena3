@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Map Decluttering System</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+        }
+
+        #map {
+            width: 100%;
+            height: 100vh;
+            background: #f8f9fa;
+        }
+
+        /* Map Labels */
+        .map-label {
+            background: rgba(255, 255, 255, 0.85);
+            border: 1px solid #999;
+            border-radius: 3px;
+            padding: 1px 4px;
+            font-size: 10px;
+            font-weight: bold;
+            white-space: nowrap;
+            color: #333;
+            box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Info Panel */
+        .info-panel {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            max-width: 300px;
+        }
+
+        /* Upload Control */
+        .upload-control {
+            position: absolute;
+            top: 10px;
+            left: 50px;
+            /* Offset from Zoom control */
+            z-index: 1000;
+            background: white;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .upload-btn {
+            background: linear-gradient(45deg, #4CAF50, #45a049);
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 14px;
+            cursor: pointer;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            transition: transform 0.2s;
+        }
+
+        .upload-btn:hover {
+            transform: scale(1.05);
+        }
+
+        /* Loading Overlay */
+        #loading {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 2000;
+            display: none;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            color: white;
+        }
+
+        .spinner {
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-top: 4px solid #fff;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+
+    <!-- Upload/Predict Control -->
+    <div class="upload-control">
+        <form id="upload-form" action="/process_map" method="post" enctype="multipart/form-data"
+            style="display:flex; align-items:center;">
+            <input type="file" name="file" id="file-input" accept=".png,.jpg,.jpeg" style="display:none;">
+            <button type="button" class="upload-btn" onclick="document.getElementById('file-input').click()">
+                <span>📂</span> Upload Map Photo
+            </button>
+            <button type="submit" id="predict-btn" class="upload-btn"
+                style="background: linear-gradient(45deg, #2196F3, #21CBF3); display:none; margin-left:10px;">
+                <span>🔮</span> Predict Your Photo
+            </button>
+            <span id="filename" style="font-size:12px; color:#666; margin-left:10px;"></span>
+        </form>
+    </div>
+
+    <!-- Info Panel -->
+    <div class="info-panel">
+        <h3>Decluttering Results</h3>
+        <div id="stats">
+            {% if stats %}
+            <b>Success Rate:</b> {{ stats.success_rate|round(1) }}%<br>
+            <b>Total Features:</b> {{ stats.total_features }}<br>
+            <b>Moves:</b> {{ stats.features_moved }}
+            {% else %}
+            Upload a map to see results.
+            {% endif %}
+        </div>
+        <hr>
+        <h4>Legend</h4>
+        <div style="font-size: 12px; line-height: 1.5;">
+            <div><span
+                    style="display:inline-block;width:12px;height:12px;background:#E74C3C;border-radius:2px;margin-right:5px;"></span>
+                Highway</div>
+            <div><span
+                    style="display:inline-block;width:12px;height:12px;background:#F39C12;border-radius:2px;margin-right:5px;"></span>
+                Main Road</div>
+            <div><span
+                    style="display:inline-block;width:12px;height:12px;background:#95A5A6;border-radius:2px;margin-right:5px;"></span>
+                Local Road</div>
+            <div><span
+                    style="display:inline-block;width:12px;height:12px;background:#27AE60;border-radius:50%;margin-right:5px;"></span>
+                Building</div>
+        </div>
+        <hr>
+        <button onclick="toggleLabels()">Toggle Labels</button>
+    </div>
+
+    <!-- Loading Screen -->
+    <div id="loading">
+        <div class="spinner"></div>
+        <h2>Analyzing Map...</h2>
+        <p>Detecting roads, buildings, and optimizing placement.</p>
+    </div>
+
+    <script>
+        // --- UI Logic ---
+        const fileInput = document.getElementById('file-input');
+        const predictBtn = document.getElementById('predict-btn');
+        const filenameSpan = document.getElementById('filename');
+        const form = document.getElementById('upload-form');
+        const loading = document.getElementById('loading');
+
+        fileInput.addEventListener('change', function () {
+            if (this.files.length > 0) {
+                filenameSpan.textContent = this.files[0].name;
+                predictBtn.style.display = 'flex';
+            }
+        });
+
+        form.addEventListener('submit', function () {
+            loading.style.display = 'flex';
+        });
+
+        // --- Map Logic ---
+        var map = L.map('map', {
+            crs: L.CRS.Simple,
+            minZoom: -3,
+            maxZoom: 2
+        });
+
+        var layers = {
+            highways: L.layerGroup().addTo(map),
+            main_roads: L.layerGroup().addTo(map),
+            local_roads: L.layerGroup().addTo(map),
+            features: L.layerGroup().addTo(map),
+            labels: L.layerGroup().addTo(map)
+        };
+
+        // Data injected from Flask
+        var featureData = {{ feature_data | tojson | safe }};
+
+        if (featureData && featureData.length > 0) {
+            var bounds = [];
+
+            featureData.forEach(function (f) {
+                var color = '#333';
+                var weight = 1;
+                var layer = layers.features;
+
+                switch (f.type) {
+                    case 'highway': color = '#E74C3C'; weight = 6; layer = layers.highways; break;
+                    case 'main_road': color = '#F39C12'; weight = 4; layer = layers.main_roads; break;
+                    case 'local_road': color = '#95A5A6'; weight = 2; layer = layers.local_roads; break;
+                    case 'building': color = '#27AE60'; break;
+                    case 'icon': color = '#9B59B6'; break;
+                }
+
+                var popupContent = `<b>Type:</b> ${f.type}<br><b>ID:</b> ${f.id}`;
+
+                if (f.geometry_type === 'LineString') {
+                    var latlngs = f.coords.map(c => [c[1], c[0]]); // Swap to Lat/Lng
+                    L.polyline(latlngs, { color: color, weight: weight, opacity: 0.8 })
+                        .bindTooltip(popupContent).addTo(layer);
+                    latlngs.forEach(p => bounds.push(p));
+
+                    // Label
+                    if (f.id && layer !== layers.local_roads) {
+                        var mid = latlngs[Math.floor(latlngs.length / 2)];
+                        var labelIcon = L.divIcon({ className: 'map-label', html: f.id, iconSize: null });
+                        L.marker(mid, { icon: labelIcon }).addTo(layers.labels);
+                    }
+                } else if (f.geometry_type === 'Point') {
+                    var latlng = [f.coords[0][1], f.coords[0][0]];
+                    L.circleMarker(latlng, {
+                        radius: 5, fillColor: color, color: '#fff', weight: 1, opacity: 1, fillOpacity: 0.8
+                    }).bindTooltip(popupContent).addTo(layer);
+                    bounds.push(latlng);
+                } else if (f.geometry_type === 'Polygon') {
+                    var latlngs = f.coords.map(c => [c[1], c[0]]);
+                    L.polygon(latlngs, {
+                        fillColor: color, color: '#fff', weight: 1, opacity: 1, fillOpacity: 0.6
+                    }).bindTooltip(popupContent).addTo(layer);
+                    latlngs.forEach(p => bounds.push(p));
+                }
+            });
+
+            if (bounds.length > 0) {
+                map.fitBounds(bounds, { padding: [50, 50] });
+            }
+        } else {
+            // Default view if no data
+            map.setView([0, 0], 0);
+        }
+
+        function toggleLabels() {
+            if (map.hasLayer(layers.labels)) map.removeLayer(layers.labels);
+            else map.addLayer(layers.labels);
+        }
+
+        L.control.layers(null, layers).addTo(map);
+    </script>
+</body>
+
+</html>
